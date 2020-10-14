@@ -5,3 +5,4 @@
 * [Contents](#content)
 
 Anton Villadolid worked on the profile.html page~
+Misam Ibrahimi added main.html
