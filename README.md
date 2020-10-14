@@ -5,5 +5,6 @@
 * [Contents](#content)
 
 Anton Villadolid worked on the profile.html page~
+Maikol Chow Wang worked on the index.html page
 Misam Ibrahimi added main.html
 Anton is sabotaging the project so we can show conflict~
