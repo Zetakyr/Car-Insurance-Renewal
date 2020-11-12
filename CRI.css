@@ -9,10 +9,23 @@ margin-right: 15px;
 padding: 10px; 
 height: 70px;
 }
+
+#Section {
+    display: flex;
+    height: 70vh;
+    justify-content: space-evenly;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+    padding: 15px;
+    font-size: 1.8rem;
+}
+
 body{
     margin: 0px;
     background-color: lightgray;
 }
+
 #arrow {
     background-color: grey;
     display: flex;
@@ -20,4 +33,10 @@ body{
     align-items: center;
     padding: 5px;
     height: 30px;
+}
+
+#basicinfo-css {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
 }
