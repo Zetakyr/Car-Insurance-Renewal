@@ -1,5 +1,5 @@
 #Navbar {
-background-color: lightgray;
+background-color: #3AC0f5;
 display: flex;
 justify-content: space-between;
 align-items: center;
@@ -21,11 +21,11 @@ height: 70px;
 
 body{
     margin: 0px;
-    background-color: lightgray;
+    background-color: #3AC0f5;
 }
 
 #arrow {
-    background-color: gray;
+    background-color: #2B8EB5;
     display: flex;
     justify-content: center;
     align-items: center;
